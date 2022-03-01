@@ -1,0 +1,10 @@
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\bin\Debug\netcoreapp3.1\LibraryJeuDeRole.deps.json
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\bin\Debug\netcoreapp3.1\LibraryJeuDeRole.dll
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\bin\Debug\netcoreapp3.1\LibraryJeuDeRole.pdb
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\obj\Debug\netcoreapp3.1\LibraryJeuDeRole.GeneratedMSBuildEditorConfig.editorconfig
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\obj\Debug\netcoreapp3.1\LibraryJeuDeRole.AssemblyInfoInputs.cache
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\obj\Debug\netcoreapp3.1\LibraryJeuDeRole.AssemblyInfo.cs
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\obj\Debug\netcoreapp3.1\LibraryJeuDeRole.csproj.CoreCompileInputs.cache
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\obj\Debug\netcoreapp3.1\LibraryJeuDeRole.dll
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\obj\Debug\netcoreapp3.1\LibraryJeuDeRole.pdb
+H:\SCHMIDT\TP BALARD\TP2 Bis\LibraryJeuDeRole\obj\Debug\netcoreapp3.1\LibraryJeuDeRole.csproj.AssemblyReference.cache
